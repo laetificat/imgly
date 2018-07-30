@@ -1,0 +1,9 @@
+
+/target
+**/*.rs.bk
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/*.iws
+cargo.lock
+**/*.rs.bk
+/.env

@@ -1,0 +1,17 @@
+[package]
+name = "imgly"
+version = "0.1.0"
+authors = ["Kevin Heruer <k.heruer@gmail.com>"]
+
+[dependencies]
+rocket = "= 0.3.11"
+rocket_codegen = "= 0.3.11"
+rocket_contrib = "= 0.3.11"
+serde = "= 1.0.66"
+serde_derive = "= 1.0.66"
+serde_json = "= 1.0.20"
+chrono = { version = "= 0.4.2", features = ["serde"] }
+diesel = { version= "= 1.3.0", features = ["chrono", "postgres"] }
+dotenv = "= 0.13.0"
+config = "= 0.8.0"
+uuid = { version = "= 0.6.5", features = ["v4"] }
