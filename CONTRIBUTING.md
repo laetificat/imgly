@@ -3,7 +3,7 @@ Imgly is open to accept any contributions if it improves from it, in any shape o
 simple guidelines to help working on the project.
 
 ## Submitting bug reports and feature requests
-Imgly is maintained on Bitbucket and only use the issue tracker over there, please use the Bitbucket repository to create
+Imgly is maintained on Github and only use the issue tracker over there, please use the Github repository to create
 your issue and/or feature request.
 
 When reporting a bug make sure to include your Rust version and all the steps to reproduce this bug.
